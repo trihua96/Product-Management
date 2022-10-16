@@ -1,0 +1,6 @@
+       001 |       Gallon Milk |           10 | 2.490
+       003 |             Pasta |           15 | 3.000
+       002 |  Saltine Crackers |           20 | 1.490
+       003 |             Bread |           35 | 2.290
+       004 |            Cheese |           25 | 2.000
+       005 |             pasta |           15 | 3.000
